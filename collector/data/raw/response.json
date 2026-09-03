@@ -1,0 +1,380 @@
+[
+    {
+        "id": 2397314,
+        "team1": {
+            "id": 11241,
+            "name": "B8",
+            "score": 2,
+            "rank": 14
+        },
+        "team2": {
+            "id": 13973,
+            "name": "Color",
+            "score": 1,
+            "rank": 57
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 11241,
+            "name": "B8"
+        }
+    },
+    {
+        "id": 2397320,
+        "team1": {
+            "id": 11241,
+            "name": "B8",
+            "score": 2,
+            "rank": 14
+        },
+        "team2": {
+            "id": 11737,
+            "name": "EYEBALLERS",
+            "score": 0,
+            "rank": 32
+        },
+        "maps": [
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 11241,
+            "name": "B8"
+        }
+    },
+    {
+        "id": 2397311,
+        "team1": {
+            "id": 7532,
+            "name": "BIG",
+            "score": 1,
+            "rank": 15
+        },
+        "team2": {
+            "id": 7969,
+            "name": "Nemiga",
+            "score": 2,
+            "rank": 66
+        },
+        "maps": [
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 7969,
+            "name": "Nemiga"
+        }
+    },
+    {
+        "id": 2397321,
+        "team1": {
+            "id": 7532,
+            "name": "BIG",
+            "score": 2,
+            "rank": 15
+        },
+        "team2": {
+            "id": 4773,
+            "name": "paiN",
+            "score": 0,
+            "rank": 39
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 7532,
+            "name": "BIG"
+        }
+    },
+    {
+        "id": 2397312,
+        "team1": {
+            "id": 11581,
+            "name": "HOTU",
+            "score": 2,
+            "rank": 21
+        },
+        "team2": {
+            "id": 4773,
+            "name": "paiN",
+            "score": 0,
+            "rank": 39
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 11581,
+            "name": "HOTU"
+        }
+    },
+    {
+        "id": 2397319,
+        "team1": {
+            "id": 11581,
+            "name": "HOTU",
+            "score": 2,
+            "rank": 21
+        },
+        "team2": {
+            "id": 7969,
+            "name": "Nemiga",
+            "score": 0,
+            "rank": 66
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 14
+            },
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 11581,
+            "name": "HOTU"
+        }
+    },
+    {
+        "id": 2397307,
+        "team1": {
+            "id": 9215,
+            "name": "MIBR",
+            "score": 1,
+            "rank": 22
+        },
+        "team2": {
+            "id": 11251,
+            "name": "Eternal Fire",
+            "score": 2,
+            "rank": 67
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 19
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 11251,
+            "name": "Eternal Fire"
+        }
+    },
+    {
+        "id": 2397317,
+        "team1": {
+            "id": 9215,
+            "name": "MIBR",
+            "score": 2,
+            "rank": 22
+        },
+        "team2": {
+            "id": 4914,
+            "name": "3DMAX",
+            "score": 0,
+            "rank": 43
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 9215,
+            "name": "MIBR"
+        }
+    },
+    {
+        "id": 2397309,
+        "team1": {
+            "id": 13592,
+            "name": "magic",
+            "score": 2,
+            "rank": 24
+        },
+        "team2": {
+            "id": 12895,
+            "name": "K27",
+            "score": 0,
+            "rank": 34
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 1
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 13592,
+            "name": "magic"
+        }
+    },
+    {
+        "id": 2397316,
+        "team1": {
+            "id": 13592,
+            "name": "magic",
+            "score": 0,
+            "rank": 24
+        },
+        "team2": {
+            "id": 13027,
+            "name": "Nuclear TigeRES",
+            "score": 2,
+            "rank": 44
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 11,
+                "team2_score": 13
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 5,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-02",
+        "event": "IEM Beijing 2026 Closed Qualifier",
+        "winner": {
+            "id": 13027,
+            "name": "Nuclear TigeRES"
+        }
+    }
+]
