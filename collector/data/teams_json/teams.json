@@ -1,0 +1,776 @@
+[
+    {
+        "id": 2396943,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 0,
+            "rank": 7
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 5
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-31",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396932,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 5995,
+            "name": "G2",
+            "score": 0,
+            "rank": 8
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-28",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396924,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 13926,
+            "name": "DENDELE",
+            "score": 0,
+            "rank": 35
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-26",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396614,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 3,
+            "rank": 1
+        },
+        "team2": {
+            "id": 13286,
+            "name": "FUT",
+            "score": 1,
+            "rank": 4
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 5
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 14
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 16,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 5,
+        "date": "2026-08-23",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396612,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 12468,
+            "name": "Legacy",
+            "score": 0,
+            "rank": 6
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-22",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396610,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 9565,
+            "name": "Vitality",
+            "score": 1,
+            "rank": 5
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 3
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 14,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-21",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396606,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 11241,
+            "name": "B8",
+            "score": 0,
+            "rank": 14
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-20",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396591,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 7532,
+            "name": "BIG",
+            "score": 1,
+            "rank": 15
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 10
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-15",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396577,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 6290,
+            "name": "Luminosity",
+            "score": 0,
+            "rank": 45
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 19,
+                "team2_score": 15
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 3
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-13",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396559,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 10,
+            "rank": 1
+        },
+        "team2": {
+            "id": 10245,
+            "name": "JiJieHao",
+            "score": 13,
+            "rank": 25
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 1,
+        "date": "2026-08-12",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 10245,
+            "name": "JiJieHao"
+        }
+    },
+    {
+        "id": 2396021,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 1,
+            "rank": 1
+        },
+        "team2": {
+            "id": 4494,
+            "name": "MOUZ",
+            "score": 3,
+            "rank": 2
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 8,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 4,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 5,
+        "date": "2026-08-02",
+        "event": "BLAST Bounty 2026 Season 2 Finals",
+        "winner": {
+            "id": 4494,
+            "name": "MOUZ"
+        }
+    },
+    {
+        "id": 2396020,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 6667,
+            "name": "FaZe",
+            "score": 1,
+            "rank": 10
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-01",
+        "event": "BLAST Bounty 2026 Season 2 Finals",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396018,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 5973,
+            "name": "Liquid",
+            "score": 0,
+            "rank": 19
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 5
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-07-30",
+        "event": "BLAST Bounty 2026 Season 2 Finals",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396014,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 8474,
+            "name": "100 Thieves",
+            "score": 1,
+            "rank": 29
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 0
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 4,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-07-26",
+        "event": "BLAST Bounty 2026 Season 2",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2396006,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 10503,
+            "name": "OG",
+            "score": 1,
+            "rank": 79
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 19,
+                "team2_score": 16
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 11,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-07-23",
+        "event": "BLAST Bounty 2026 Season 2",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2395001,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 1,
+            "rank": 1
+        },
+        "team2": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 12,
+                "team2_score": 16
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 14,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-20",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394998,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 5995,
+            "name": "G2",
+            "score": 1,
+            "rank": 8
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 25,
+                "team2_score": 22
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 16,
+                "team2_score": 14
+            },
+            {
+                "id": 2,
+                "name": "Overpass",
+                "team1_score": 9,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-19",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2394986,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 9996,
+            "name": "9z",
+            "score": 1,
+            "rank": 9
+        },
+        "maps": [
+            {
+                "id": 2,
+                "name": "Overpass",
+                "team1_score": 12,
+                "team2_score": 16
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 16,
+                "team2_score": 14
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 16,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-13",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2394977,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 11861,
+            "name": "Aurora",
+            "score": 1,
+            "rank": 12
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 9,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 5
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-12",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    },
+    {
+        "id": 2394900,
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "score": 2,
+            "rank": 1
+        },
+        "team2": {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "score": 0,
+            "rank": 11
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 1
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-11",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 7020,
+            "name": "Spirit"
+        }
+    }
+]

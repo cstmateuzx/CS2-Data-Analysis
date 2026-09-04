@@ -20,11 +20,12 @@ def save_json(data, filepath):
 
 
 def main():
-    data = fetch_data("/matches/latest")
+    team_id = 7020
+    data = fetch_data(f"/teams/{team_id}/matchhistory?limit=20")
 
     save_json(
         data,
-        "data/raw/response.json"
+        "data/teams_json/teams.json"
     )
 
 
