@@ -3,7 +3,14 @@ import requests
 
 
 BASE_URL = "https://api.csapi.de"
-
+teams = {
+    7020: "spirit",
+    4494: "mouz",
+    11283: "falcons",
+    13286: "fut",
+    9565: "vitality",
+    8297: "furia"
+}
 
 def fetch_data(endpoint):
     url = f"{BASE_URL}{endpoint}"
@@ -20,13 +27,16 @@ def save_json(data, filepath):
 
 
 def main():
-    team_id = 7020
-    data = fetch_data(f"/teams/{team_id}/matchhistory?limit=20")
+    for team_id, team_name in teams.items():
 
-    save_json(
-        data,
-        "data/teams_json/teams.json"
-    )
+        data = fetch_data(
+            f"/teams/{team_id}/matchhistory?limit=20"
+        )
+
+        save_json(
+            data,
+            f"data/teams/{team_name}/team.json"
+        )
 
 
 if __name__ == "__main__":
