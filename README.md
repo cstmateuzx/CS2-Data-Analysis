@@ -2,6 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Data Pipeline](https://img.shields.io/badge/pipeline-ETL%20Automated-brightgreen.svg)]()
+[![Tests](https://img.shields.io/badge/tests-14%20passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 
 Pipeline automatizado de **Engenharia e Analise de Dados** para o cenario profissional de **Counter-Strike 2 (CS2)**. O projeto extrai dados competitivos das principais equipes globais via API publica, normaliza estruturas aninhadas, realiza modelagem relacional (separando series, mapas e atletas) e gera datasets limpos para analises de desempenho e visualizacao em dashboard interativo.
@@ -206,70 +207,84 @@ python run_pipeline.py
 python run_pipeline.py --skip-collect
 ```
 
-#### Opção C: Ajustar Limite de Partidas por Equipe
+#### Opcao C: Ajustar Limite de Partidas por Equipe
 Para coletar mais ou menos partidas por equipe:
 ```bash
 python run_pipeline.py --limit 30
 ```
 
-#### Opção D: Abrir o Dashboard Web Interativo (Streamlit)
-Inicia o dashboard analítico completo com filtros, tabelas e gráficos no seu navegador:
+#### Opcao D: Abrir o Dashboard Web Interativo (Streamlit)
+Inicia o dashboard analitico completo com filtros, tabelas e graficos no seu navegador:
 ```bash
 streamlit run dashboard/app.py
 ```
 
+#### Opcao E: Executar os Testes Automatizados (Pytest)
+Executa a suite completa de testes unitarios validando regras de negocio, engenharia de features e resiliencia de rede com mocks:
+```bash
+pytest -v
+```
+
 ---
 
-## 📁 Estrutura de Pastas
+## Estrutura de Pastas
 
 ```text
 CS2-Data-Analysis/
 │
 ├── data/
 │   ├── raw/                  # Arquivos JSON brutos coletados da API
-│   │   └── matches_stats/    # Estatísticas detalhadas de cada partida
+│   │   └── matches_stats/    # Estatisticas detalhadas de cada partida
 │   └── processed/            # Datasets tratados finais (matches.csv, maps.csv, player_stats.csv)
 │
-├── src/                      # Módulos do código-fonte
+├── src/                      # Modulos do codigo-fonte
 │   ├── __init__.py           # Inicializador do pacote Python
-│   ├── config.py             # Configurações globais, paths e constantes
-│   ├── collector.py          # Coleta e integração com a API de CS2
-│   └── cleaner.py            # Limpeza, normalização, modelagem e validações
+│   ├── config.py             # Configuracoes globais, paths e constantes
+│   ├── collector.py          # Coleta e integracao com a API de CS2
+│   └── cleaner.py            # Limpeza, normalizacao, modelagem e validacoes
 │
-├── data_cleaning/            # Jupyter Notebooks de desenvolvimento e testes
-│   ├── clean_data.ipynb      # Notebook original de estudo e experimentação
-│   └── testes_finais.ipynb   # Notebook de validação e testes estatísticos
+├── tests/                    # Testes automatizados com Pytest
+│   ├── __init__.py
+│   ├── conftest.py           # Fixtures com dados sinteticos em memoria
+│   ├── test_config.py        # Testes de ambiente e caminhos
+│   ├── test_cleaner.py       # Testes de transformacoes, features e integridade
+│   └── test_collector.py     # Testes de rede, timeouts e retries com Mocks
+│
+├── data_cleaning/            # Jupyter Notebooks de estudo
+│   ├── clean_data.ipynb      # Notebook original de estudo e experimentacao
+│   └── testes_finais.ipynb   # Notebook de validacao e testes estatisticos
 │
 ├── dashboard/                # Interface web interativa (Streamlit)
-│   └── app.py                # Código da aplicação Streamlit com Plotly
-├── exploratory_analysis/     # Análises exploratórias de dados (EDA)
+│   └── app.py                # Codigo da aplicacao Streamlit com Plotly
+├── exploratory_analysis/     # Analises exploratorias de dados (EDA)
 │
-├── run_pipeline.py           # Orquestrador CLI de execução do pipeline
-├── requirements.txt          # Dependências do projeto
-├── .gitignore                # Regras de exclusão do controle de versão
-└── README.md                 # Documentação técnica do projeto
+├── run_pipeline.py           # Orquestrador CLI de execucao do pipeline
+├── requirements.txt          # Dependencias do projeto
+├── .gitignore                # Regras de exclusao do controle de versao
+└── README.md                 # Documentacao tecnica do projeto
 ```
 
 ---
 
-## 🗺️ Roadmap do Projeto
+## Roadmap do Projeto
 
-- [x] Extração de dados da API pública de CS2
-- [x] Normalização de JSON e tratamento de nulos/tipos
-- [x] Modelagem relacional separando Séries (`matches`), Mapas (`maps`) e Jogadores (`player_stats`)
-- [x] Validação de consistência lógica (BO vs Maps count e integridade de nulos)
-- [x] Modularização do pipeline em scripts Python estruturados
-- [x] Documentação técnica completa e padronização com `.gitignore` e `requirements.txt`
-- [x] Coleta e estruturação de métricas individuais de jogadores (Rating, K/D, ADR, KAST, Swing)
-- [x] Matriz de Dominância e Rankings por Mapa
+- [x] Extracao de dados da API publica de CS2
+- [x] Normalizacao de JSON e tratamento de nulos/tipos
+- [x] Modelagem relacional separando Series (`matches`), Mapas (`maps`) e Jogadores (`player_stats`)
+- [x] Validacao de consistencia logica (BO vs Maps count e integridade de nulos)
+- [x] Modularizacao do pipeline em scripts Python estruturados
+- [x] Documentacao tecnica completa e padronizacao com `.gitignore` e `requirements.txt`
+- [x] Coleta e estruturacao de metricas individuais de jogadores (Rating, K/D, ADR, KAST, Swing)
+- [x] Matriz de Dominancia e Rankings por Mapa
 - [x] Dashboard interativo em **Streamlit & Plotly** ([`dashboard/app.py`](dashboard/app.py))
-- [ ] Testes automatizados com **Pytest**
+- [x] Testes automatizados com **Pytest** (14 testes unitarios com mocks)
 - [ ] Pipeline de CI via **GitHub Actions**
 
 ---
 
-## 👤 Autor
+## Autor
 
 Desenvolvido por **Mateus (cstmateuzx)**  
-Projeto focado em Engenharia e Análise de Dados em eSports.  
-Sinta-se à vontade para conectar e colaborar!
+Projeto focado em Engenharia e Analise de Dados em eSports.  
+Sinta-se a vontade para conectar e colaborar!
+
