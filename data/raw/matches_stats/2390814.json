@@ -1,0 +1,118 @@
+[
+    {
+        "id": 0,
+        "name": "All",
+        "team1": {
+            "id": 4863,
+            "name": "TYLOO",
+            "players": [
+                {
+                    "id": 19645,
+                    "name": "jamyoung",
+                    "k": 25,
+                    "d": 33,
+                    "swing": -0.39,
+                    "adr": 68.1,
+                    "kast": 68.9,
+                    "rating": 0.97
+                },
+                {
+                    "id": 20702,
+                    "name": "jee",
+                    "k": 18,
+                    "d": 31,
+                    "swing": -2.04,
+                    "adr": 47.6,
+                    "kast": 68.9,
+                    "rating": 0.77
+                },
+                {
+                    "id": 20895,
+                    "name": "mercury",
+                    "k": 24,
+                    "d": 31,
+                    "swing": -4.19,
+                    "adr": 59.4,
+                    "kast": 71.1,
+                    "rating": 0.75
+                },
+                {
+                    "id": 21621,
+                    "name": "moseyuh",
+                    "k": 35,
+                    "d": 33,
+                    "swing": 0.64,
+                    "adr": 75.1,
+                    "kast": 77.8,
+                    "rating": 1.21
+                },
+                {
+                    "id": 24857,
+                    "name": "zero",
+                    "k": 31,
+                    "d": 33,
+                    "swing": 0.09,
+                    "adr": 74.0,
+                    "kast": 57.8,
+                    "rating": 1.04
+                }
+            ]
+        },
+        "team2": {
+            "id": 8297,
+            "name": "FURIA",
+            "players": [
+                {
+                    "id": 2023,
+                    "name": "fallen",
+                    "k": 34,
+                    "d": 28,
+                    "swing": 3.52,
+                    "adr": 79.3,
+                    "kast": 86.7,
+                    "rating": 1.29
+                },
+                {
+                    "id": 12553,
+                    "name": "yuurih",
+                    "k": 32,
+                    "d": 27,
+                    "swing": -1.63,
+                    "adr": 85.0,
+                    "kast": 71.1,
+                    "rating": 1.06
+                },
+                {
+                    "id": 13915,
+                    "name": "yekindar",
+                    "k": 34,
+                    "d": 29,
+                    "swing": -1.54,
+                    "adr": 82.8,
+                    "kast": 73.3,
+                    "rating": 1.05
+                },
+                {
+                    "id": 15631,
+                    "name": "kscerato",
+                    "k": 36,
+                    "d": 23,
+                    "swing": 3.86,
+                    "adr": 79.1,
+                    "kast": 84.4,
+                    "rating": 1.36
+                },
+                {
+                    "id": 24144,
+                    "name": "molodoy",
+                    "k": 24,
+                    "d": 26,
+                    "swing": 1.69,
+                    "adr": 62.5,
+                    "kast": 68.9,
+                    "rating": 1.03
+                }
+            ]
+        }
+    }
+]

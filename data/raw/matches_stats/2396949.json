@@ -1,0 +1,118 @@
+[
+    {
+        "id": 0,
+        "name": "All",
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "players": [
+                {
+                    "id": 16920,
+                    "name": "sh1ro",
+                    "k": 33,
+                    "d": 23,
+                    "swing": 2.37,
+                    "adr": 79.0,
+                    "kast": 73.3,
+                    "rating": 1.21
+                },
+                {
+                    "id": 18317,
+                    "name": "magixx",
+                    "k": 30,
+                    "d": 27,
+                    "swing": 0.03,
+                    "adr": 65.6,
+                    "kast": 73.3,
+                    "rating": 1.02
+                },
+                {
+                    "id": 19808,
+                    "name": "tn1r",
+                    "k": 29,
+                    "d": 30,
+                    "swing": 0.75,
+                    "adr": 72.4,
+                    "kast": 73.3,
+                    "rating": 1.04
+                },
+                {
+                    "id": 20423,
+                    "name": "zont1x",
+                    "k": 32,
+                    "d": 32,
+                    "swing": 0.5,
+                    "adr": 78.3,
+                    "kast": 68.9,
+                    "rating": 1.0
+                },
+                {
+                    "id": 21167,
+                    "name": "donk",
+                    "k": 34,
+                    "d": 30,
+                    "swing": 1.55,
+                    "adr": 77.8,
+                    "kast": 82.2,
+                    "rating": 1.09
+                }
+            ]
+        },
+        "team2": {
+            "id": 11283,
+            "name": "Falcons",
+            "players": [
+                {
+                    "id": 429,
+                    "name": "karrigan",
+                    "k": 19,
+                    "d": 33,
+                    "swing": -2.84,
+                    "adr": 46.5,
+                    "kast": 64.4,
+                    "rating": 0.78
+                },
+                {
+                    "id": 3741,
+                    "name": "niko",
+                    "k": 21,
+                    "d": 33,
+                    "swing": -2.62,
+                    "adr": 65.6,
+                    "kast": 64.4,
+                    "rating": 0.81
+                },
+                {
+                    "id": 12018,
+                    "name": "teses",
+                    "k": 27,
+                    "d": 31,
+                    "swing": 0.32,
+                    "adr": 64.5,
+                    "kast": 68.9,
+                    "rating": 0.96
+                },
+                {
+                    "id": 19230,
+                    "name": "m0nesy",
+                    "k": 39,
+                    "d": 29,
+                    "swing": 1.87,
+                    "adr": 88.8,
+                    "kast": 73.3,
+                    "rating": 1.28
+                },
+                {
+                    "id": 24177,
+                    "name": "kyousuke",
+                    "k": 35,
+                    "d": 35,
+                    "swing": -2.41,
+                    "adr": 78.6,
+                    "kast": 75.6,
+                    "rating": 1.04
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "id": 2396934,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 12376,
+            "name": "M80",
+            "score": 0,
+            "rank": 40
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 5
+            },
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 16,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-28",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2396926,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 4773,
+            "name": "paiN",
+            "score": 0,
+            "rank": 39
+        },
+        "maps": [
+            {
+                "id": 11,
+                "name": "Cache",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 2
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-26",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2396607,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 5995,
+            "name": "G2",
+            "score": 1,
+            "rank": 8
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 3
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 3,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-20",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2396600,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 11861,
+            "name": "Aurora",
+            "score": 1,
+            "rank": 12
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 14,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-19",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2396588,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 9996,
+            "name": "9z",
+            "score": 1,
+            "rank": 9
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-15",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2396574,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 13,
+            "rank": 7
+        },
+        "team2": {
+            "id": 12257,
+            "name": "Wildcard",
+            "score": 10,
+            "rank": 55
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10
+            }
+        ],
+        "best_of": 1,
+        "date": "2026-08-12",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2395000,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 11861,
+            "name": "Aurora",
+            "score": 0,
+            "rank": 12
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-20",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2394997,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 9996,
+            "name": "9z",
+            "score": 1,
+            "rank": 9
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 8,
+                "team2_score": 13
+            },
+            {
+                "id": 2,
+                "name": "Overpass",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-18",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2394985,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 12394,
+            "name": "BetBoom",
+            "score": 0,
+            "rank": 14
+        },
+        "maps": [
+            {
+                "id": 2,
+                "name": "Overpass",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-13",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2394901,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 11241,
+            "name": "B8",
+            "score": 0,
+            "rank": 13
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 10
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-11",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2394128,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 7175,
+            "name": "HEROIC",
+            "score": 0,
+            "rank": 24
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 4
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 7
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-10",
+        "event": "PGL Astana 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2393322,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 1,
+            "rank": 7
+        },
+        "team2": {
+            "id": 9928,
+            "name": "GamerLegion",
+            "score": 2,
+            "rank": 28
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 5,
+                "team2_score": 13
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 5
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-04-30",
+        "event": "BLAST Rivals 2026 Season 1",
+        "winner": {
+            "id": 9928,
+            "name": "GamerLegion"
+        }
+    },
+    {
+        "id": 2393335,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 1,
+            "rank": 7
+        },
+        "team2": {
+            "id": 6667,
+            "name": "FaZe",
+            "score": 2,
+            "rank": 10
+        },
+        "maps": [
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 3,
+                "team2_score": 13
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 4,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-04-30",
+        "event": "BLAST Rivals 2026 Season 1",
+        "winner": {
+            "id": 6667,
+            "name": "FaZe"
+        }
+    },
+    {
+        "id": 2393228,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "score": 1,
+            "rank": 11
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 3,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 16,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-04-14",
+        "event": "IEM Rio 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2393085,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 12426,
+            "name": "Passion UA",
+            "score": 0,
+            "rank": 141
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 3
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-04-13",
+        "event": "IEM Rio 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2391763,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 6673,
+            "name": "NRG",
+            "score": 1,
+            "rank": 50
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 2
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-03-22",
+        "event": "BLAST Open Rotterdam 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2391758,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 0,
+            "rank": 7
+        },
+        "team2": {
+            "id": 11861,
+            "name": "Aurora",
+            "score": 2,
+            "rank": 12
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 6,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 14,
+                "team2_score": 16
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-03-20",
+        "event": "BLAST Open Rotterdam 2026",
+        "winner": {
+            "id": 11861,
+            "name": "Aurora"
+        }
+    },
+    {
+        "id": 2390814,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 4863,
+            "name": "TYLOO",
+            "score": 0,
+            "rank": 26
+        },
+        "maps": [
+            {
+                "id": 2,
+                "name": "Overpass",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-03-18",
+        "event": "BLAST Open Rotterdam 2026",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    },
+    {
+        "id": 2391133,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 1,
+            "rank": 7
+        },
+        "team2": {
+            "id": 6665,
+            "name": "Astralis",
+            "score": 2,
+            "rank": 20
+        },
+        "maps": [
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 4,
+                "team2_score": 13
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 4,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-03-10",
+        "event": "ESL Pro League Season 23 Stage 2",
+        "winner": {
+            "id": 6665,
+            "name": "Astralis"
+        }
+    },
+    {
+        "id": 2391130,
+        "team1": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 2,
+            "rank": 7
+        },
+        "team2": {
+            "id": 4773,
+            "name": "paiN",
+            "score": 0,
+            "rank": 39
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-03-09",
+        "event": "ESL Pro League Season 23 Stage 2",
+        "winner": {
+            "id": 8297,
+            "name": "FURIA"
+        }
+    }
+]

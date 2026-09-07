@@ -1,0 +1,118 @@
+[
+    {
+        "id": 0,
+        "name": "All",
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "players": [
+                {
+                    "id": 16920,
+                    "name": "sh1ro",
+                    "k": 33,
+                    "d": 31,
+                    "swing": 1.37,
+                    "adr": 61.2,
+                    "kast": 66.7,
+                    "rating": 1.02
+                },
+                {
+                    "id": 18317,
+                    "name": "magixx",
+                    "k": 28,
+                    "d": 38,
+                    "swing": -2.15,
+                    "adr": 54.9,
+                    "kast": 61.1,
+                    "rating": 0.8
+                },
+                {
+                    "id": 19808,
+                    "name": "tn1r",
+                    "k": 29,
+                    "d": 33,
+                    "swing": 0.73,
+                    "adr": 68.3,
+                    "kast": 72.2,
+                    "rating": 1.04
+                },
+                {
+                    "id": 20423,
+                    "name": "zont1x",
+                    "k": 24,
+                    "d": 36,
+                    "swing": -1.19,
+                    "adr": 58.8,
+                    "kast": 66.7,
+                    "rating": 0.84
+                },
+                {
+                    "id": 21167,
+                    "name": "donk",
+                    "k": 59,
+                    "d": 35,
+                    "swing": 4.83,
+                    "adr": 100.5,
+                    "kast": 72.2,
+                    "rating": 1.61
+                }
+            ]
+        },
+        "team2": {
+            "id": 8474,
+            "name": "100 Thieves",
+            "players": [
+                {
+                    "id": 7592,
+                    "name": "device",
+                    "k": 33,
+                    "d": 33,
+                    "swing": 0.18,
+                    "adr": 59.4,
+                    "kast": 72.2,
+                    "rating": 0.92
+                },
+                {
+                    "id": 8183,
+                    "name": "rain",
+                    "k": 37,
+                    "d": 33,
+                    "swing": -1.36,
+                    "adr": 73.3,
+                    "kast": 68.5,
+                    "rating": 1.0
+                },
+                {
+                    "id": 21816,
+                    "name": "gizmy",
+                    "k": 28,
+                    "d": 38,
+                    "swing": -2.83,
+                    "adr": 65.0,
+                    "kast": 63.0,
+                    "rating": 0.79
+                },
+                {
+                    "id": 22695,
+                    "name": "sirah",
+                    "k": 38,
+                    "d": 31,
+                    "swing": 2.83,
+                    "adr": 73.4,
+                    "kast": 74.1,
+                    "rating": 1.23
+                },
+                {
+                    "id": 23397,
+                    "name": "poiii",
+                    "k": 35,
+                    "d": 38,
+                    "swing": -2.42,
+                    "adr": 76.6,
+                    "kast": 74.1,
+                    "rating": 0.96
+                }
+            ]
+        }
+    }
+]

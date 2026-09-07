@@ -1,0 +1,788 @@
+[
+    {
+        "id": 2396947,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 5995,
+            "name": "G2",
+            "score": 0,
+            "rank": 8
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-09-04",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396938,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12468,
+            "name": "Legacy",
+            "score": 1,
+            "rank": 6
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-29",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396930,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 8840,
+            "name": "Lynn Vision",
+            "score": 1,
+            "rank": 41
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 10,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-27",
+        "event": "BLAST Open Porto 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396609,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 0,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12468,
+            "name": "Legacy",
+            "score": 2,
+            "rank": 6
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 10,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-21",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 12468,
+            "name": "Legacy"
+        }
+    },
+    {
+        "id": 2396604,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 6248,
+            "name": "The MongolZ",
+            "score": 0,
+            "rank": 19
+        },
+        "maps": [
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 3
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-20",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396579,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 6665,
+            "name": "Astralis",
+            "score": 0,
+            "rank": 20
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-08-13",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396563,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 13,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12895,
+            "name": "K27",
+            "score": 6,
+            "rank": 34
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6
+            }
+        ],
+        "best_of": 1,
+        "date": "2026-08-12",
+        "event": "Esports World Cup 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2396005,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 1,
+            "rank": 3
+        },
+        "team2": {
+            "id": 8474,
+            "name": "100 Thieves",
+            "score": 2,
+            "rank": 29
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 11,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 7,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 4
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-07-22",
+        "event": "BLAST Bounty 2026 Season 2",
+        "winner": {
+            "id": 8474,
+            "name": "100 Thieves"
+        }
+    },
+    {
+        "id": 2395002,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 3,
+            "rank": 3
+        },
+        "team2": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 0,
+            "rank": 7
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8
+            }
+        ],
+        "best_of": 5,
+        "date": "2026-06-21",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394999,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 9565,
+            "name": "Vitality",
+            "score": 1,
+            "rank": 4
+        },
+        "maps": [
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-19",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394991,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "score": 1,
+            "rank": 11
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 3
+            },
+            {
+                "id": 1,
+                "name": "Anubis",
+                "team1_score": 19,
+                "team2_score": 16
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-14",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394975,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 0,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12394,
+            "name": "BetBoom",
+            "score": 2,
+            "rank": 14
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 10,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-12",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 12394,
+            "name": "BetBoom"
+        }
+    },
+    {
+        "id": 2394899,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 5995,
+            "name": "G2",
+            "score": 1,
+            "rank": 8
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-06-11",
+        "event": "IEM Cologne Major 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394228,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 1,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12468,
+            "name": "Legacy",
+            "score": 3,
+            "rank": 6
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 6,
+                "team2_score": 13
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 6,
+                "team2_score": 13
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11
+            }
+        ],
+        "best_of": 5,
+        "date": "2026-05-24",
+        "event": "CS Asia Championships 2026",
+        "winner": {
+            "id": 12468,
+            "name": "Legacy"
+        }
+    },
+    {
+        "id": 2394219,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12468,
+            "name": "Legacy",
+            "score": 0,
+            "rank": 6
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-22",
+        "event": "CS Asia Championships 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394208,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 12376,
+            "name": "M80",
+            "score": 0,
+            "rank": 40
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 19,
+                "team2_score": 15
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-20",
+        "event": "CS Asia Championships 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394154,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 13592,
+            "name": "magic",
+            "score": 0,
+            "rank": 23
+        },
+        "maps": [
+            {
+                "id": 3,
+                "name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 5
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-16",
+        "event": "PGL Astana 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394152,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 8297,
+            "name": "FURIA",
+            "score": 1,
+            "rank": 7
+        },
+        "maps": [
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 19,
+                "team2_score": 17
+            },
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 22,
+                "team2_score": 20
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-15",
+        "event": "PGL Astana 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394142,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 2,
+            "rank": 3
+        },
+        "team2": {
+            "id": 6248,
+            "name": "The MongolZ",
+            "score": 1,
+            "rank": 19
+        },
+        "maps": [
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 16,
+                "team2_score": 12
+            },
+            {
+                "id": 7,
+                "name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-12",
+        "event": "PGL Astana 2026",
+        "winner": {
+            "id": 11283,
+            "name": "Falcons"
+        }
+    },
+    {
+        "id": 2394130,
+        "team1": {
+            "id": 11283,
+            "name": "Falcons",
+            "score": 1,
+            "rank": 3
+        },
+        "team2": {
+            "id": 9996,
+            "name": "9z",
+            "score": 2,
+            "rank": 9
+        },
+        "maps": [
+            {
+                "id": 5,
+                "name": "Nuke",
+                "team1_score": 8,
+                "team2_score": 13
+            },
+            {
+                "id": 4,
+                "name": "Dust2",
+                "team1_score": 1,
+                "team2_score": 13
+            },
+            {
+                "id": 6,
+                "name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9
+            }
+        ],
+        "best_of": 3,
+        "date": "2026-05-10",
+        "event": "PGL Astana 2026",
+        "winner": {
+            "id": 9996,
+            "name": "9z"
+        }
+    }
+]

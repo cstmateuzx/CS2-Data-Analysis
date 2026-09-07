@@ -1,0 +1,16 @@
+# Coleta de Dados e APIs
+requests>=2.31.0
+
+# Manipulação e Tratamento de Dados
+pandas>=2.0.0
+
+# Análise de Dados e Visualização
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Dashboard Interativo
+streamlit>=1.30.0
+
+# Testes Automatizados e Qualidade de Código
+pytest>=7.4.0

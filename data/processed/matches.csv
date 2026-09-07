@@ -1,0 +1,121 @@
+match_id,best_of,date,event,_source,team1_id,team1_name,team1_score,team1_rank,team2_id,team2_name,team2_score,team2_rank,winner_id,winner_name,team1_result,team2_result,score_difference
+2396947,3,2026-09-04,BLAST Open Porto 2026,falcons.json,11283,Falcons,2,3,5995,G2,0,8,11283,Falcons,W,L,2
+2396938,3,2026-08-29,BLAST Open Porto 2026,falcons.json,11283,Falcons,2,3,12468,Legacy,1,6,11283,Falcons,W,L,1
+2396930,3,2026-08-27,BLAST Open Porto 2026,falcons.json,11283,Falcons,2,3,8840,Lynn Vision,1,41,11283,Falcons,W,L,1
+2396609,3,2026-08-21,Esports World Cup 2026,falcons.json,11283,Falcons,0,3,12468,Legacy,2,6,12468,Legacy,L,W,2
+2396604,3,2026-08-20,Esports World Cup 2026,falcons.json,11283,Falcons,2,3,6248,The MongolZ,0,19,11283,Falcons,W,L,2
+2396579,3,2026-08-13,Esports World Cup 2026,falcons.json,11283,Falcons,2,3,6665,Astralis,0,20,11283,Falcons,W,L,2
+2396563,1,2026-08-12,Esports World Cup 2026,falcons.json,11283,Falcons,13,3,12895,K27,6,34,11283,Falcons,W,L,7
+2396005,3,2026-07-22,BLAST Bounty 2026 Season 2,falcons.json,11283,Falcons,1,3,8474,100 Thieves,2,29,8474,100 Thieves,L,W,1
+2395002,5,2026-06-21,IEM Cologne Major 2026,falcons.json,11283,Falcons,3,3,8297,FURIA,0,7,11283,Falcons,W,L,3
+2394999,3,2026-06-19,IEM Cologne Major 2026,falcons.json,11283,Falcons,2,3,9565,Vitality,1,4,11283,Falcons,W,L,1
+2394991,3,2026-06-14,IEM Cologne Major 2026,falcons.json,11283,Falcons,2,3,4608,Natus Vincere,1,11,11283,Falcons,W,L,1
+2394975,3,2026-06-12,IEM Cologne Major 2026,falcons.json,11283,Falcons,0,3,12394,BetBoom,2,14,12394,BetBoom,L,W,2
+2394899,3,2026-06-11,IEM Cologne Major 2026,falcons.json,11283,Falcons,2,3,5995,G2,1,8,11283,Falcons,W,L,1
+2394228,5,2026-05-24,CS Asia Championships 2026,falcons.json,11283,Falcons,1,3,12468,Legacy,3,6,12468,Legacy,L,W,2
+2394219,3,2026-05-22,CS Asia Championships 2026,falcons.json,11283,Falcons,2,3,12468,Legacy,0,6,11283,Falcons,W,L,2
+2394208,3,2026-05-20,CS Asia Championships 2026,falcons.json,11283,Falcons,2,3,12376,M80,0,40,11283,Falcons,W,L,2
+2394154,3,2026-05-16,PGL Astana 2026,falcons.json,11283,Falcons,2,3,13592,magic,0,23,11283,Falcons,W,L,2
+2394152,3,2026-05-15,PGL Astana 2026,falcons.json,11283,Falcons,2,3,8297,FURIA,1,7,11283,Falcons,W,L,1
+2394142,3,2026-05-12,PGL Astana 2026,falcons.json,11283,Falcons,2,3,6248,The MongolZ,1,19,11283,Falcons,W,L,1
+2394130,3,2026-05-10,PGL Astana 2026,falcons.json,11283,Falcons,1,3,9996,9z,2,9,9996,9z,L,W,1
+2396934,3,2026-08-28,BLAST Open Porto 2026,furia.json,8297,FURIA,2,7,12376,M80,0,40,8297,FURIA,W,L,2
+2396926,3,2026-08-26,BLAST Open Porto 2026,furia.json,8297,FURIA,2,7,4773,paiN,0,39,8297,FURIA,W,L,2
+2396607,3,2026-08-20,Esports World Cup 2026,furia.json,8297,FURIA,2,7,5995,G2,1,8,8297,FURIA,W,L,1
+2396600,3,2026-08-19,Esports World Cup 2026,furia.json,8297,FURIA,2,7,11861,Aurora,1,12,8297,FURIA,W,L,1
+2396588,3,2026-08-15,Esports World Cup 2026,furia.json,8297,FURIA,2,7,9996,9z,1,9,8297,FURIA,W,L,1
+2396574,1,2026-08-12,Esports World Cup 2026,furia.json,8297,FURIA,13,7,12257,Wildcard,10,55,8297,FURIA,W,L,3
+2395000,3,2026-06-20,IEM Cologne Major 2026,furia.json,8297,FURIA,2,7,11861,Aurora,0,12,8297,FURIA,W,L,2
+2394997,3,2026-06-18,IEM Cologne Major 2026,furia.json,8297,FURIA,2,7,9996,9z,1,9,8297,FURIA,W,L,1
+2394985,3,2026-06-13,IEM Cologne Major 2026,furia.json,8297,FURIA,2,7,12394,BetBoom,0,14,8297,FURIA,W,L,2
+2394901,3,2026-06-11,IEM Cologne Major 2026,furia.json,8297,FURIA,2,7,11241,B8,0,13,8297,FURIA,W,L,2
+2394128,3,2026-05-10,PGL Astana 2026,furia.json,8297,FURIA,2,7,7175,HEROIC,0,24,8297,FURIA,W,L,2
+2393322,3,2026-04-30,BLAST Rivals 2026 Season 1,furia.json,8297,FURIA,1,7,9928,GamerLegion,2,28,9928,GamerLegion,L,W,1
+2393335,3,2026-04-30,BLAST Rivals 2026 Season 1,furia.json,8297,FURIA,1,7,6667,FaZe,2,10,6667,FaZe,L,W,1
+2393228,3,2026-04-14,IEM Rio 2026,furia.json,8297,FURIA,2,7,4608,Natus Vincere,1,11,8297,FURIA,W,L,1
+2393085,3,2026-04-13,IEM Rio 2026,furia.json,8297,FURIA,2,7,12426,Passion UA,0,141,8297,FURIA,W,L,2
+2391763,3,2026-03-22,BLAST Open Rotterdam 2026,furia.json,8297,FURIA,2,7,6673,NRG,1,50,8297,FURIA,W,L,1
+2391758,3,2026-03-20,BLAST Open Rotterdam 2026,furia.json,8297,FURIA,0,7,11861,Aurora,2,12,11861,Aurora,L,W,2
+2390814,3,2026-03-18,BLAST Open Rotterdam 2026,furia.json,8297,FURIA,2,7,4863,TYLOO,0,26,8297,FURIA,W,L,2
+2391133,3,2026-03-10,ESL Pro League Season 23 Stage 2,furia.json,8297,FURIA,1,7,6665,Astralis,2,20,6665,Astralis,L,W,1
+2391130,3,2026-03-09,ESL Pro League Season 23 Stage 2,furia.json,8297,FURIA,2,7,4773,paiN,0,39,8297,FURIA,W,L,2
+2396942,3,2026-08-30,BLAST Open Porto 2026,fut.json,13286,FUT,2,5,13117,Inner Circle,0,16,13286,FUT,W,L,2
+2396937,3,2026-08-29,BLAST Open Porto 2026,fut.json,13286,FUT,2,5,8840,Lynn Vision,1,41,13286,FUT,W,L,1
+2396929,3,2026-08-27,BLAST Open Porto 2026,fut.json,13286,FUT,0,5,12468,Legacy,2,6,12468,Legacy,L,W,2
+2396611,3,2026-08-22,Esports World Cup 2026,fut.json,13286,FUT,2,5,8297,FURIA,1,7,13286,FUT,W,L,1
+2396601,3,2026-08-19,Esports World Cup 2026,fut.json,13286,FUT,2,5,13592,magic,1,23,13286,FUT,W,L,1
+2396569,1,2026-08-12,Esports World Cup 2026,fut.json,13286,FUT,13,5,4863,TYLOO,10,26,13286,FUT,W,L,3
+2396009,3,2026-07-26,BLAST Bounty 2026 Season 2,fut.json,13286,FUT,0,5,4914,3DMAX,2,33,4914,3DMAX,L,W,2
+2395997,3,2026-07-23,BLAST Bounty 2026 Season 2,fut.json,13286,FUT,2,5,10577,SINNERS,1,72,13286,FUT,W,L,1
+2394994,3,2026-06-15,IEM Cologne Major 2026,fut.json,13286,FUT,0,5,12394,BetBoom,2,14,12394,BetBoom,L,W,2
+2394980,3,2026-06-13,IEM Cologne Major 2026,fut.json,13286,FUT,2,5,11241,B8,1,13,13286,FUT,W,L,1
+2394973,3,2026-06-12,IEM Cologne Major 2026,fut.json,13286,FUT,1,5,5995,G2,2,8,5995,G2,L,W,1
+2394887,3,2026-06-07,IEM Cologne Major 2026 Stage 2,fut.json,13286,FUT,2,5,5995,G2,1,8,13286,FUT,W,L,1
+2394868,1,2026-06-06,IEM Cologne Major 2026 Stage 2,fut.json,13286,FUT,13,5,11241,B8,11,13,13286,FUT,W,L,2
+2394873,1,2026-06-06,IEM Cologne Major 2026 Stage 2,fut.json,13286,FUT,13,5,4863,TYLOO,9,26,13286,FUT,W,L,4
+2394165,3,2026-05-13,IEM Atlanta 2026,fut.json,13286,FUT,0,5,11241,B8,2,13,11241,B8,L,W,2
+2394158,3,2026-05-12,IEM Atlanta 2026,fut.json,13286,FUT,1,5,4773,paiN,2,39,4773,paiN,L,W,1
+2394111,3,2026-05-11,IEM Atlanta 2026,fut.json,13286,FUT,2,5,6673,NRG,0,50,13286,FUT,W,L,2
+2393333,3,2026-04-30,BLAST Rivals 2026 Season 1,fut.json,13286,FUT,0,5,6665,Astralis,2,20,6665,Astralis,L,W,2
+2393046,5,2026-04-11,PGL Bucharest 2026,fut.json,13286,FUT,3,5,6665,Astralis,1,20,13286,FUT,W,L,2
+2393044,3,2026-04-10,PGL Bucharest 2026,fut.json,13286,FUT,2,5,6248,The MongolZ,0,19,13286,FUT,W,L,2
+2396950,3,2026-09-05,BLAST Open Porto 2026,mouz.json,4494,MOUZ,2,2,9565,Vitality,0,4,4494,MOUZ,W,L,2
+2396945,3,2026-08-31,BLAST Open Porto 2026,mouz.json,4494,MOUZ,2,2,11283,Falcons,1,3,4494,MOUZ,W,L,1
+2396936,3,2026-08-29,BLAST Open Porto 2026,mouz.json,4494,MOUZ,2,2,13117,Inner Circle,0,16,4494,MOUZ,W,L,2
+2396928,3,2026-08-27,BLAST Open Porto 2026,mouz.json,4494,MOUZ,2,2,9996,9z,0,9,4494,MOUZ,W,L,2
+2396608,3,2026-08-21,Esports World Cup 2026,mouz.json,4494,MOUZ,0,2,13286,FUT,2,5,13286,FUT,L,W,2
+2396602,3,2026-08-19,Esports World Cup 2026,mouz.json,4494,MOUZ,2,2,9928,GamerLegion,1,28,4494,MOUZ,W,L,1
+2396595,3,2026-08-16,Esports World Cup 2026,mouz.json,4494,MOUZ,2,2,12467,PARIVISION,0,17,4494,MOUZ,W,L,2
+2396584,3,2026-08-14,Esports World Cup 2026,mouz.json,4494,MOUZ,1,2,13286,FUT,2,5,13286,FUT,L,W,1
+2396570,1,2026-08-12,Esports World Cup 2026,mouz.json,4494,MOUZ,13,2,8840,Lynn Vision,8,41,4494,MOUZ,W,L,5
+2396019,3,2026-08-01,BLAST Bounty 2026 Season 2 Finals,mouz.json,4494,MOUZ,2,2,6665,Astralis,1,20,4494,MOUZ,W,L,1
+2396017,3,2026-07-30,BLAST Bounty 2026 Season 2 Finals,mouz.json,4494,MOUZ,2,2,4914,3DMAX,1,33,4494,MOUZ,W,L,1
+2396011,3,2026-07-25,BLAST Bounty 2026 Season 2,mouz.json,4494,MOUZ,2,2,13679,FOKUS,0,48,4494,MOUZ,W,L,2
+2396002,3,2026-07-21,BLAST Bounty 2026 Season 2,mouz.json,4494,MOUZ,2,2,13027,Nuclear TigeRES,0,43,4494,MOUZ,W,L,2
+2394987,3,2026-06-14,IEM Cologne Major 2026,mouz.json,4494,MOUZ,1,2,13286,FUT,2,5,13286,FUT,L,W,1
+2394983,3,2026-06-13,IEM Cologne Major 2026,mouz.json,4494,MOUZ,1,2,9565,Vitality,2,4,9565,Vitality,L,W,1
+2394971,3,2026-06-12,IEM Cologne Major 2026,mouz.json,4494,MOUZ,1,2,8297,FURIA,2,7,8297,FURIA,L,W,1
+2394905,3,2026-06-11,IEM Cologne Major 2026,mouz.json,4494,MOUZ,2,2,12468,Legacy,0,6,4494,MOUZ,W,L,2
+2394227,3,2026-05-24,CS Asia Championships 2026,mouz.json,4494,MOUZ,2,2,9215,MIBR,0,21,4494,MOUZ,W,L,2
+2394225,3,2026-05-23,CS Asia Championships 2026,mouz.json,4494,MOUZ,1,2,11283,Falcons,2,3,11283,Falcons,L,W,1
+2394220,3,2026-05-22,CS Asia Championships 2026,mouz.json,4494,MOUZ,2,2,4773,paiN,0,39,4494,MOUZ,W,L,2
+2396949,3,2026-09-05,BLAST Open Porto 2026,spirit.json,7020,Spirit,2,1,11283,Falcons,0,3,7020,Spirit,W,L,2
+2396943,3,2026-08-31,BLAST Open Porto 2026,spirit.json,7020,Spirit,2,1,8297,FURIA,0,7,7020,Spirit,W,L,2
+2396932,3,2026-08-28,BLAST Open Porto 2026,spirit.json,7020,Spirit,2,1,5995,G2,0,8,7020,Spirit,W,L,2
+2396924,3,2026-08-26,BLAST Open Porto 2026,spirit.json,7020,Spirit,2,1,13926,DENDELE,0,36,7020,Spirit,W,L,2
+2396614,5,2026-08-23,Esports World Cup 2026,spirit.json,7020,Spirit,3,1,13286,FUT,1,5,7020,Spirit,W,L,2
+2396612,3,2026-08-22,Esports World Cup 2026,spirit.json,7020,Spirit,2,1,12468,Legacy,0,6,7020,Spirit,W,L,2
+2396610,3,2026-08-21,Esports World Cup 2026,spirit.json,7020,Spirit,2,1,9565,Vitality,1,4,7020,Spirit,W,L,1
+2396606,3,2026-08-20,Esports World Cup 2026,spirit.json,7020,Spirit,2,1,11241,B8,0,13,7020,Spirit,W,L,2
+2396591,3,2026-08-15,Esports World Cup 2026,spirit.json,7020,Spirit,2,1,7532,BIG,1,15,7020,Spirit,W,L,1
+2396577,3,2026-08-13,Esports World Cup 2026,spirit.json,7020,Spirit,2,1,6290,Luminosity,0,44,7020,Spirit,W,L,2
+2396559,1,2026-08-12,Esports World Cup 2026,spirit.json,7020,Spirit,10,1,10245,JiJieHao,13,30,10245,JiJieHao,L,W,3
+2396021,5,2026-08-02,BLAST Bounty 2026 Season 2 Finals,spirit.json,7020,Spirit,1,1,4494,MOUZ,3,2,4494,MOUZ,L,W,2
+2396020,3,2026-08-01,BLAST Bounty 2026 Season 2 Finals,spirit.json,7020,Spirit,2,1,6667,FaZe,1,10,7020,Spirit,W,L,1
+2396018,3,2026-07-30,BLAST Bounty 2026 Season 2 Finals,spirit.json,7020,Spirit,2,1,5973,Liquid,0,17,7020,Spirit,W,L,2
+2396014,3,2026-07-26,BLAST Bounty 2026 Season 2,spirit.json,7020,Spirit,2,1,8474,100 Thieves,1,29,7020,Spirit,W,L,1
+2396006,3,2026-07-23,BLAST Bounty 2026 Season 2,spirit.json,7020,Spirit,2,1,10503,OG,1,81,7020,Spirit,W,L,1
+2395001,3,2026-06-20,IEM Cologne Major 2026,spirit.json,7020,Spirit,1,1,11283,Falcons,2,3,11283,Falcons,L,W,1
+2394998,3,2026-06-19,IEM Cologne Major 2026,spirit.json,7020,Spirit,2,1,5995,G2,1,8,7020,Spirit,W,L,1
+2394986,3,2026-06-13,IEM Cologne Major 2026,spirit.json,7020,Spirit,2,1,9996,9z,1,9,7020,Spirit,W,L,1
+2394977,3,2026-06-12,IEM Cologne Major 2026,spirit.json,7020,Spirit,2,1,11861,Aurora,1,12,7020,Spirit,W,L,1
+2396948,3,2026-09-04,BLAST Open Porto 2026,vitality.json,9565,Vitality,2,4,8297,FURIA,1,7,9565,Vitality,W,L,1
+2396946,3,2026-08-31,BLAST Open Porto 2026,vitality.json,9565,Vitality,2,4,13286,FUT,0,5,9565,Vitality,W,L,2
+2396941,3,2026-08-30,BLAST Open Porto 2026,vitality.json,9565,Vitality,2,4,12468,Legacy,1,6,9565,Vitality,W,L,1
+2396935,3,2026-08-29,BLAST Open Porto 2026,vitality.json,9565,Vitality,2,4,9996,9z,0,9,9565,Vitality,W,L,2
+2396927,3,2026-08-27,BLAST Open Porto 2026,vitality.json,9565,Vitality,0,4,13117,Inner Circle,2,16,13117,Inner Circle,L,W,2
+2396605,3,2026-08-20,Esports World Cup 2026,vitality.json,9565,Vitality,2,4,6667,FaZe,0,10,9565,Vitality,W,L,2
+2396596,3,2026-08-16,Esports World Cup 2026,vitality.json,9565,Vitality,2,4,8840,Lynn Vision,0,41,9565,Vitality,W,L,2
+2396583,3,2026-08-14,Esports World Cup 2026,vitality.json,9565,Vitality,1,4,11241,B8,2,13,11241,B8,L,W,1
+2396567,1,2026-08-12,Esports World Cup 2026,vitality.json,9565,Vitality,13,4,8474,100 Thieves,4,29,9565,Vitality,W,L,9
+2396004,3,2026-07-24,BLAST Bounty 2026 Season 2,vitality.json,9565,Vitality,0,4,5973,Liquid,2,17,5973,Liquid,L,W,2
+2394989,3,2026-06-14,IEM Cologne Major 2026,vitality.json,9565,Vitality,2,4,12394,BetBoom,0,14,9565,Vitality,W,L,2
+2394978,3,2026-06-12,IEM Cologne Major 2026,vitality.json,9565,Vitality,1,4,9996,9z,2,9,9996,9z,L,W,1
+2394898,3,2026-06-11,IEM Cologne Major 2026,vitality.json,9565,Vitality,2,4,13286,FUT,1,5,9565,Vitality,W,L,1
+2394174,3,2026-05-15,IEM Atlanta 2026,vitality.json,9565,Vitality,1,4,4608,Natus Vincere,2,11,4608,Natus Vincere,L,W,1
+2394166,3,2026-05-13,IEM Atlanta 2026,vitality.json,9565,Vitality,2,4,6667,FaZe,0,10,9565,Vitality,W,L,2
+2394170,3,2026-05-13,IEM Atlanta 2026,vitality.json,9565,Vitality,2,4,11241,B8,0,13,9565,Vitality,W,L,2
+2394157,3,2026-05-12,IEM Atlanta 2026,vitality.json,9565,Vitality,1,4,12394,BetBoom,2,14,12394,BetBoom,L,W,1
+2394108,3,2026-05-11,IEM Atlanta 2026,vitality.json,9565,Vitality,2,4,12878,BC.Game,0,38,9565,Vitality,W,L,2
+2393350,5,2026-05-03,BLAST Rivals 2026 Season 1,vitality.json,9565,Vitality,3,4,4608,Natus Vincere,0,11,9565,Vitality,W,L,3
+2393349,3,2026-05-02,BLAST Rivals 2026 Season 1,vitality.json,9565,Vitality,2,4,9928,GamerLegion,0,28,9565,Vitality,W,L,2

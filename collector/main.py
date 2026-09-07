@@ -35,9 +35,8 @@ def main():
 
         save_json(
             data,
-            f"data/teams/{team_name}/team.json"
+            f"data/raw/{team_name}.json"
         )
-
 
 if __name__ == "__main__":
     main()

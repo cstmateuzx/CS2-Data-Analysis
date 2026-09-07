@@ -1,0 +1,118 @@
+[
+    {
+        "id": 0,
+        "name": "All",
+        "team1": {
+            "id": 7020,
+            "name": "Spirit",
+            "players": [
+                {
+                    "id": 16920,
+                    "name": "sh1ro",
+                    "k": 43,
+                    "d": 28,
+                    "swing": 2.44,
+                    "adr": 81.6,
+                    "kast": 77.2,
+                    "rating": 1.22
+                },
+                {
+                    "id": 18317,
+                    "name": "magixx",
+                    "k": 31,
+                    "d": 37,
+                    "swing": -2.01,
+                    "adr": 61.0,
+                    "kast": 66.7,
+                    "rating": 0.94
+                },
+                {
+                    "id": 19808,
+                    "name": "tn1r",
+                    "k": 44,
+                    "d": 32,
+                    "swing": 4.21,
+                    "adr": 75.0,
+                    "kast": 70.2,
+                    "rating": 1.31
+                },
+                {
+                    "id": 20423,
+                    "name": "zont1x",
+                    "k": 37,
+                    "d": 36,
+                    "swing": -0.96,
+                    "adr": 69.2,
+                    "kast": 78.9,
+                    "rating": 1.04
+                },
+                {
+                    "id": 21167,
+                    "name": "donk",
+                    "k": 46,
+                    "d": 37,
+                    "swing": 4.68,
+                    "adr": 87.6,
+                    "kast": 73.7,
+                    "rating": 1.41
+                }
+            ]
+        },
+        "team2": {
+            "id": 11861,
+            "name": "Aurora",
+            "players": [
+                {
+                    "id": 150,
+                    "name": "maj3r",
+                    "k": 33,
+                    "d": 40,
+                    "swing": -0.37,
+                    "adr": 78.0,
+                    "kast": 56.1,
+                    "rating": 0.99
+                },
+                {
+                    "id": 7938,
+                    "name": "xantares",
+                    "k": 37,
+                    "d": 44,
+                    "swing": -1.98,
+                    "adr": 75.9,
+                    "kast": 64.9,
+                    "rating": 0.95
+                },
+                {
+                    "id": 8574,
+                    "name": "woxic",
+                    "k": 27,
+                    "d": 37,
+                    "swing": -2.87,
+                    "adr": 47.3,
+                    "kast": 61.4,
+                    "rating": 0.7
+                },
+                {
+                    "id": 20968,
+                    "name": "soulfly",
+                    "k": 25,
+                    "d": 40,
+                    "swing": -2.7,
+                    "adr": 56.9,
+                    "kast": 68.4,
+                    "rating": 0.74
+                },
+                {
+                    "id": 21243,
+                    "name": "wicadia",
+                    "k": 47,
+                    "d": 40,
+                    "swing": -0.43,
+                    "adr": 75.2,
+                    "kast": 68.4,
+                    "rating": 1.1
+                }
+            ]
+        }
+    }
+]

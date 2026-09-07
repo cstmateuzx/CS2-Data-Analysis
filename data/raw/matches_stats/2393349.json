@@ -1,0 +1,118 @@
+[
+    {
+        "id": 0,
+        "name": "All",
+        "team1": {
+            "id": 9565,
+            "name": "Vitality",
+            "players": [
+                {
+                    "id": 7322,
+                    "name": "apex",
+                    "k": 30,
+                    "d": 29,
+                    "swing": -0.86,
+                    "adr": 78.5,
+                    "kast": 81.8,
+                    "rating": 1.06
+                },
+                {
+                    "id": 11816,
+                    "name": "ropz",
+                    "k": 34,
+                    "d": 24,
+                    "swing": 2.56,
+                    "adr": 85.6,
+                    "kast": 75.0,
+                    "rating": 1.25
+                },
+                {
+                    "id": 11893,
+                    "name": "zywoo",
+                    "k": 42,
+                    "d": 21,
+                    "swing": 2.95,
+                    "adr": 86.4,
+                    "kast": 77.3,
+                    "rating": 1.38
+                },
+                {
+                    "id": 16693,
+                    "name": "flamez",
+                    "k": 33,
+                    "d": 28,
+                    "swing": 4.4,
+                    "adr": 86.8,
+                    "kast": 84.1,
+                    "rating": 1.42
+                },
+                {
+                    "id": 18462,
+                    "name": "mezii",
+                    "k": 32,
+                    "d": 25,
+                    "swing": 3.05,
+                    "adr": 75.0,
+                    "kast": 79.5,
+                    "rating": 1.21
+                }
+            ]
+        },
+        "team2": {
+            "id": 9928,
+            "name": "GamerLegion",
+            "players": [
+                {
+                    "id": 2553,
+                    "name": "snax",
+                    "k": 32,
+                    "d": 34,
+                    "swing": -2.11,
+                    "adr": 78.2,
+                    "kast": 65.9,
+                    "rating": 0.93
+                },
+                {
+                    "id": 9278,
+                    "name": "rez",
+                    "k": 24,
+                    "d": 36,
+                    "swing": -3.8,
+                    "adr": 70.2,
+                    "kast": 54.5,
+                    "rating": 0.77
+                },
+                {
+                    "id": 20301,
+                    "name": "tauson",
+                    "k": 14,
+                    "d": 36,
+                    "swing": -4.31,
+                    "adr": 50.4,
+                    "kast": 59.1,
+                    "rating": 0.6
+                },
+                {
+                    "id": 22279,
+                    "name": "pr",
+                    "k": 30,
+                    "d": 37,
+                    "swing": -2.7,
+                    "adr": 74.4,
+                    "kast": 61.4,
+                    "rating": 0.9
+                },
+                {
+                    "id": 23766,
+                    "name": "hypex",
+                    "k": 24,
+                    "d": 30,
+                    "swing": 0.42,
+                    "adr": 50.4,
+                    "kast": 63.6,
+                    "rating": 0.89
+                }
+            ]
+        }
+    }
+]
